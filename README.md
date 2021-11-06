@@ -9,3 +9,10 @@ Welcome everyone! You can find everything useful about GitHub for your FYP here!
 <a href="Workshop Lab.pdf"><strong>Lab Session</strong></a> - Find the instructions of the Lab here!
 
 <a href="LabMain.py"><strong>Main Function</strong></a> - Find the main function for the Lab here!
+
+## Further Support
+If you have any problems related to GitHub during your FYP, feel free to contact one of us!
+
+Queenie Ho - queenie-hy.ho@connect.polyu.hk
+Nikkie Leung - nikkie-yt.leung@connect.polyu.hk
+Melvin Cheng - manhin.cheng@connect.polyu.hk
