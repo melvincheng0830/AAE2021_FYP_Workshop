@@ -11,6 +11,8 @@ Welcome everyone! You can find everything useful about GitHub for your FYP here!
 <a href="LabMain.py"><strong>Main Function</strong></a> - Find the main function for the Lab here!
 
 ## Further Support
+<a href="LabMain.py"><strong>Main Function</strong></a> - Installation Guide for Git
+
 If you have any problems related to GitHub during your FYP, feel free to contact one of us!
 
 Queenie Ho - queenie-hy.ho@connect.polyu.hk
