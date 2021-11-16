@@ -1,4 +1,4 @@
 print('Melvin is here!)
-print('Yooooo')   #Queenie   
-print('')   #Nikkie
+print('')   #Queenie   
+print('Yo')   #Nikkie
 print('')   #LT
