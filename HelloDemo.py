@@ -1,6 +1,4 @@
-blblblblblbl
-
-print('Melvin is here!)
+print('LT is here!)
 print('')   #Queenie   
 print('')   #Nikkie
 print('')   #LT
