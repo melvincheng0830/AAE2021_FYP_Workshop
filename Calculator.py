@@ -11,8 +11,7 @@ def demoaddfunction():
 
 
 def demosubfunction():
-    return 1
-    print('Subtraction function not ready\n')
+    return print('Subtraction function not ready\n')
 
 print('Calculator programme\n')
 while 1:
