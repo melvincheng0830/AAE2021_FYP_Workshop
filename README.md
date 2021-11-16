@@ -15,7 +15,7 @@ Welcome everyone! You can find everything useful about GitHub for your FYP here!
 
 #### If you have any problems related to GitHub during your FYP, feel free to contact one of us!
 
-Queenie Ho - queenie-hy.ho@connect.polyu.hk
+Queenie Ho - hiu-yi.ho@connect.polyu.hk
 
 Nikkie Leung - nikkie-yt.leung@connect.polyu.hk
 
