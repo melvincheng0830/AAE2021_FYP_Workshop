@@ -5,7 +5,7 @@ print('')   #Queenie
 print('')   #Nikkie
 print('')   #LT
 
-print('Hello~~')  #Patrick is not here
+print('Hello~~')  #Patrick
 
 
 
