@@ -1,6 +1,6 @@
 blblblblblbl
 
-print('Melvin is there!)
+print('Melvin is not here!')
 print('')   #Queenie   
 print('')   #Nikkie
 print('')   #LT
