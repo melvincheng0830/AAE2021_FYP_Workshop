@@ -15,8 +15,8 @@ def demosubfunction():
 
 print('Calculator programme\n')
 while 1:
-    input1 = input('Enter first number:')
-    input2 = input('Enter second number:')
+    input1 = input('Enter first number: ')
+    input2 = input('Enter second number: ')
     input3 = input('Enter operator (1 for +, 2 for -)')
     if int(input3) == 1:
         demoaddfunction()
